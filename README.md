@@ -13,7 +13,7 @@ GitHub Copilot
 
     -   `github.copilot.selectedCompletionModel` 設定為 `gpt-4o-copilot`
 
-        GitHub Copilot 預設自動補全的模型為 `copilot-codex` (GPT-3.5 Turbo)，相較於今日的 GPT-4o 來說，相對比較弱。最近的 Insiders 增加了 `github.copilot.selectedCompletionModel` 選項設定，可以讓你調整為更聰明的 `gpt-4o-copilot` 模型。
+        GitHub Copilot 預設自動補全的模型為 `gpt-4o-copilot` 模型。
 
         > 你也可以用 `F1` > `GitHub Copilot: Change Completion Model` 選擇。
 
