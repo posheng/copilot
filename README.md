@@ -217,8 +217,6 @@ GitHub Copilot
 
         -   若在 Copilot 的代理模式可以按下 `Ctrl+Enter` 讓終端機的命令自動執行 (不用碰滑鼠)
 
-        -   Set Mode 可以按下 `Ctrl+.` 進行切換
-
         -   Pick Model 可以按下 `Ctrl+Alt+.` 進行切換
 
     -   語音對話 (Chat View)
