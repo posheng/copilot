@@ -217,7 +217,7 @@ GitHub Copilot
 
         -   若在 Copilot 的代理模式可以按下 `Ctrl+Enter` 讓終端機的命令自動執行 (不用碰滑鼠)
 
-        -   Pick Model 可以按下 `Ctrl+Alt+.` 進行切換
+        -   若在 Copilot Chat 或 Copilot Edit可以按下 `Ctrl+Alt+.` 進行切換 Model
 
     -   語音對話 (Chat View)
 
