@@ -226,3 +226,9 @@ GitHub Copilot
         -   按下 `Ctrl+U` 結束語音對話
 
         -   長按 `Ctrl+U` 可直接說話，放開快速鍵就可以送出提示
+
+    -  語音指令 (Dictation)
+
+        - 按下 Alt+L 開始語音輸入
+     
+        - 按下 Alt+L 或 Escape 結束語音輸入
